@@ -1,0 +1,25 @@
+{
+  "name": "PoultryFarmDatabase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KrishnanBCG/PoultryFarmDatabase.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KrishnanBCG/PoultryFarmDatabase/issues"
+  },
+  "homepage": "https://github.com/KrishnanBCG/PoultryFarmDatabase#readme",
+  "dependencies": {
+    "json-server": "^0.17.4",
+    "nodemon": "^3.1.9"
+  }
+}
